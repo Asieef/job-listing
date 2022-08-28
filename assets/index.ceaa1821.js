@@ -3423,7 +3423,7 @@ function Zo(e) {
 }
 const fn = [
     {
-      img: "./src/assets/photosnap.svg",
+      img: "../src/assets/photosnap.svg",
       company: "Photosnap",
       title: "Senior Frontend Developer",
       posted: "1d ago",
