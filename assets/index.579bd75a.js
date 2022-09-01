@@ -3577,7 +3577,7 @@ const Go = (e, t) => {
   sl = {
     key: 0,
     class:
-      "lg:w-1/2 w-72 shadow lg:h-12 py-2 px-6 absolute top-32 left-12 lg:left-1/4 grid grid-cols-10 rounded bg-white",
+      "lg:w-1/2 w-4/5 shadow lg:h-12 py-2 px-6 absolute top-32 lg:left-1/4 ml-9 grid grid-cols-10 rounded bg-white",
   },
   rl = { class: "col-span-8 flex flex-wrap items-center" },
   il = { class: "flex items-center" },
