@@ -3434,7 +3434,7 @@ const fn = [
       tags: ["Frontend", "Senior", "HTML", "CSS", "Javascript"],
     },
     {
-      img: "./src/assets/manage.svg",
+      img: "assets/manage.svg",
       company: "Manage",
       title: "Fullstack Developer",
       posted: "1d ago",
