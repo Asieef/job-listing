@@ -3445,7 +3445,7 @@ const fn = [
       tags: ["Fullstack", "Midweight", "Python", "React"],
     },
     {
-      img: "./src/assets/account.svg",
+      img: "assets/account.svg",
       company: "Accout",
       title: "Junior Frontend Developer",
       posted: "2d ago",
@@ -3456,7 +3456,7 @@ const fn = [
       tags: ["Frontend", "Junior", "React", "Sass", "Javascript"],
     },
     {
-      img: "./src/assets/myhome.svg",
+      img: "assets/myhome.svg",
       company: "MyHome",
       title: "Junior Frontend Developer",
       posted: "5d ago",
@@ -3467,7 +3467,7 @@ const fn = [
       tags: ["Frontend", "Junior", "Css", "Javascript"],
     },
     {
-      img: "./src/assets/loop-studios.svg",
+      img: "assets/loop-studios.svg",
       company: "Loop Studios",
       title: "Software Engineer",
       posted: "1w ago",
@@ -3478,7 +3478,7 @@ const fn = [
       tags: ["Fullstack", "Midweight", "Javascript", "Sass", "Ruby"],
     },
     {
-      img: "./src/assets/faceit.svg",
+      img: "assets/faceit.svg",
       company: "FaceIt",
       title: "Junior Backend Developer",
       posted: "2w ago",
@@ -3489,7 +3489,7 @@ const fn = [
       tags: ["Backend", "Junior", "Ruby", "RoR"],
     },
     {
-      img: "./src/assets/shortly.svg",
+      img: "assets/shortly.svg",
       company: "Shortly",
       title: "Junior Developer",
       posted: "2w ago",
@@ -3500,7 +3500,7 @@ const fn = [
       tags: ["Frontend", "Junior", "HTML", "Sass", "Javascript"],
     },
     {
-      img: "./src/assets/insure.svg",
+      img: "assets/insure.svg",
       company: "Insure",
       title: "Junior Frontend Developer",
       posted: "2w ago",
@@ -3511,7 +3511,7 @@ const fn = [
       tags: ["Frontend", "Junior", "Vue", "Javascript", "Sass"],
     },
     {
-      img: "./src/assets/eyecam-co.svg",
+      img: "assets/eyecam-co.svg",
       company: "Eyecam Co.",
       title: "Full Stack Engineer",
       posted: "3w ago",
@@ -3522,7 +3522,7 @@ const fn = [
       tags: ["Fullstack", "Midweight", "Javascript", "Django", "Python"],
     },
     {
-      img: "./src/assets/the-air-filter-company.svg",
+      img: "assets/the-air-filter-company.svg",
       company: "The Air Filter company",
       title: "Front-end Dev",
       posted: "1m ago",
